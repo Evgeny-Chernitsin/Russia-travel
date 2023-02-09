@@ -8,5 +8,5 @@
 
 #Russia-travell
 
-https://evgeny-chernitsin.github.io/Russia-travel-project3/
+https://evgeny-chernitsin.github.io/Russia-travel/
 
