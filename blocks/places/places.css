@@ -8,17 +8,16 @@
 	gap: 82px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
 	.places {
 		max-width: 928px;
 	}
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
 	.places {
 		max-width: 720px;
 		padding: 88px 0 0 0;
-		gap: 82px;
 	}
 }
 

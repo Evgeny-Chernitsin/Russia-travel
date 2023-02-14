@@ -3,13 +3,12 @@
 	margin-bottom: 12px;
 	max-width: 456px;
 
-	font-family: 'Inter';
 	font-style: normal;
 	font-weight: 400;
 	font-size: 12px;
 	line-height: 12px;
 
-
+	text-transform: uppercase;
 	letter-spacing: 2px;
 
 	color: #AAAAAA;

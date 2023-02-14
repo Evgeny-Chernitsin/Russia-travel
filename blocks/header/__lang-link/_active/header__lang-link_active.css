@@ -1,7 +1,6 @@
-.header__lang-linken {
+.header__lang-link_active {
 	padding: 0;
 	max-width: 30px;
-	font-family: 'Inter';
 	font-style: normal;
 	font-weight: 400;
 	font-size: 24px;
@@ -10,4 +9,12 @@
 	text-decoration-line: underline;
 
 	color: #FFFFFF;
+}
+
+@media screen and (max-width: 320px) {
+	.header__lang-link_active {
+		max-width: 22px;
+		font-size: 18px;
+		line-height: 20px;
+	}
 }
