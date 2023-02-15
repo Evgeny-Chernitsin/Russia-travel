@@ -1,7 +1,7 @@
 .lead__subtitle {
 	max-width: 640px;
 	margin: 0;
-	padding: 0 0 64px 0;
+	padding: 0 0 60px 0;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 30px;
@@ -12,9 +12,9 @@
 	color: #FFFFFF;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1024px) {
 	.lead__subtitle {
-		padding: 0 0 56px 0;
+		padding: 0 0 54px 0;
 	}
 }
 

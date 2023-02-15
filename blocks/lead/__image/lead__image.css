@@ -5,14 +5,14 @@
 	min-height: 615px;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1024px) {
 	.lead__image {
 		max-width: 928px;
 		min-height: 580px;
 	}
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
 	.lead__image {
 		max-width: 768px;
 		min-height: 480px;
